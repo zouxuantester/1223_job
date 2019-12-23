@@ -1,6 +1,6 @@
 
 import os
 
-with open('~/a.txt', 'w') as f:
+with open('/root/a.txt', 'w') as f:
     f.write('test')
 
